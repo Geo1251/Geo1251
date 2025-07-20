@@ -1,4 +1,4 @@
-<h1 align="start">Hi, I'm Georgiy!</h1>
+<h1 align="start">Hi, I'm George!</h1>
 <h3 align="start">Frontend developer turning designs into fast, responsive, and dynamic web applications.</h3>
 
 <p align="start">
