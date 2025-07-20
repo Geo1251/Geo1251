@@ -1,7 +1,7 @@
-<h1 align="center">Привет, я Георгий!</h1>
-<h3 align="center">Frontend-разработчик, который превращает макеты в живые, быстрые и отзывчивые веб-приложения.</h3>
+<h1 align="start">Привет, я Георгий!</h1>
+<h3 align="start">Frontend-разработчик, который превращает макеты в живые, быстрые и отзывчивые веб-приложения.</h3>
 
-<p align="center">
+<p align="start">
   <a href="https://t.me/KotlyDev" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:george.nozdrin@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
