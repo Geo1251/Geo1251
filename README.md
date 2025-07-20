@@ -52,9 +52,9 @@
 
 <p align="start">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Geo1251&show_icons=true&locale=ru&theme=tokyonight&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Geo1251&show_icons=true&locale=en&theme=tokyonight&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Geo1251&layout=compact&locale=ru&theme=tokyonight&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Geo1251&layout=compact&locale=en&theme=tokyonight&langs_count=8" />
   </a>
 </p>
